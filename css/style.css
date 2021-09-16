@@ -28,7 +28,7 @@ p{
   }
   
 div{
-	height: auto;
+	min-height: 150px;
 	padding: 25px;
 }
 
